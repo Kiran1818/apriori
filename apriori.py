@@ -137,5 +137,3 @@ def apriori():
     rulegenerator(Frequent_items)
 
 
-if __name__ == '__main__':
-    apriori()
